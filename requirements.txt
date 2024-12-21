@@ -1,0 +1,5 @@
+streamlit==1.27.2  # Replace with the version you're using
+groq==0.3.1        # Replace with the version you're using
+
+#pip install -r requirements.txt
+#use this to install the specific packages
